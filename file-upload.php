@@ -37,12 +37,6 @@ if(isset($_POST['form_name'])) {
 		//$filesize = (filesize($file) * .0009765625) * .0009765625; // bytes to MB
 		//$filesize = ((filesize($file) * .0009765625) * .0009765625) * .0009765625; // bytes to GB
 		
-		
-		
-		
-		
-		
-		
 	}
 	
 	catch(Exception $e) {
